@@ -12,7 +12,7 @@ Frontend:
 - bootstrap.js : responsive grids for displaying pictures, navigation bar that collapses on small screen,
 - swipebox.js : lightbox feature that makes it possible to swipe through the pictures on touchscreen enabled devices.
 
-Backend: Django.
+Backend: Django and Javascript.
 
 Even though this is a front-end intensive project, I am using Django to facilitate content management. 
 
